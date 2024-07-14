@@ -1,7 +1,14 @@
 # Keaton's Portfolio
 
-my personal website for the self plug
+[my personal website](https://keatontam.github.io) for the self plug 
 
-(keatontam.github.io)
+# tasks
+
+[x] setup github hosting
+[] profile 
+[] projects
+[] contact me
+
+[] something special happened? :pancakes:
 
 # bottom text
