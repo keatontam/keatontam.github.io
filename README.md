@@ -8,7 +8,7 @@
 - [ ] profile 
 - [ ] projects
 - [ ] contact me
-<br></br>
+\\\\\\\\\
 - [ ] something special happens? :pancakes:
 
 # bottom text
