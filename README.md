@@ -5,10 +5,11 @@
 # tasks
 
 - [x] setup github hosting
-- [] profile 
-- [] projects
-- [] contact me
+- [ ] profile 
+- [ ] projects
+- [ ] contact me
 
-- [] something special happened? :pancakes:
+
+- [ ] something special happens? :pancakes:
 
 # bottom text
