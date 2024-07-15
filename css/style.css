@@ -18,10 +18,10 @@ body{
 .nav-links{
     display:inline-block;
     position:absolute;
-    top:12px;
-    right:0px;
+    top:16px;
+    right:16px;
 }
 
 .nav-item{
-    padding:12px 20px 20px;
+    padding:16px 20px 20px;
 }
