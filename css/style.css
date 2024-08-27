@@ -25,3 +25,9 @@ body{
 .nav-item{
     padding:16px 20px 20px;
 }
+
+/* Images */
+
+.logo{
+    height:20%;
+}
